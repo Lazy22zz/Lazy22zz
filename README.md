@@ -26,3 +26,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lazy22zz/Lazy22zz/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lazy22zz/Lazy22zz/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div text-align="center"><img src="https://github-profile-trophy.vercel.app/?username=Lazy22zz&theme=gruvbox&row=1&column=5&no-frame=true&no-bg=true" /><br/></div>
