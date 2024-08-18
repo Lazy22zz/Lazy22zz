@@ -2,7 +2,11 @@
 
 ![Modern C++ template][github-sub-title:img]
 
+<img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazy22zz&locale=en&line_height=33&theme=&langs_count=5&layout=compact"/>
+
 [![Lazy22zz's GitHub | Stats](https://stats.quira.sh/Lazy22zz/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Lazy22zz)
+
+
 
 [![Lazy22zz's GitHub | Languages Over Time](https://stats.quira.sh/Lazy22zz/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Lazy22zz)
 
