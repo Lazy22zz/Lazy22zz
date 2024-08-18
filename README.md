@@ -10,7 +10,7 @@
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 ![](https://img.shields.io/badge/Hate-LAZY-yellow) 
-![](https://img.shields.io/badge/Personality-COLD-red) 
+![](https://img.shields.io/badge/Personality-COLD-blue) 
 ![](https://img.shields.io/badge/Hobby-READ-red)
 
 </div>
