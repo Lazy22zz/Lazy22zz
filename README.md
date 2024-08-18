@@ -18,4 +18,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Lazy22zz/count.svg)
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=mq白.
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Lazy22zz.
