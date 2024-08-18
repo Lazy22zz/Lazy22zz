@@ -7,7 +7,7 @@
 [![Lazy22zz's GitHub | Stats](https://stats.quira.sh/Lazy22zz/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Lazy22zz)
 
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.zhihu.com/people/o4ze4r)
-[![bilibili(https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg](https://space.bilibili.com/38851340)
+[![bilibili](https://img.shields.io/badge/video-Bilibili-red)](https://space.bilibili.com/38851340?spm_id_from=333.1007.0.0)
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 ![](https://img.shields.io/badge/Hate-LAZY-yellow) 
