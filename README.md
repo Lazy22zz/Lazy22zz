@@ -14,7 +14,7 @@
 
 </div>
 
-![头像](![Screenshot 2024-08-18 102354](https://github.com/user-attachments/assets/6eef3995-52e1-489d-a6a0-cf82c961ec04))
+![Screenshot 2024-08-18 102354](https://github.com/user-attachments/assets/6eef3995-52e1-489d-a6a0-cf82c961ec04)
 
 ![Visitor Count](https://profile-counter.glitch.me/Lazy22zz/count.svg)
 
