@@ -19,6 +19,8 @@
 
 ![Screenshot 2024-08-18 102354](https://github.com/user-attachments/assets/6eef3995-52e1-489d-a6a0-cf82c961ec04)
 
+![8611-ezgif com-speed (1)](https://github.com/user-attachments/assets/b22489bc-f1e2-4181-8c76-9b61b75220c8)
+
 ![Visitor Count](https://profile-counter.glitch.me/Lazy22zz/count.svg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Lazy22zz.
