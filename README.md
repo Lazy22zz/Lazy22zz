@@ -2,12 +2,6 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-[![Lazy22zz's GitHub | Stats](https://stats.quira.sh/Lazy22zz/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Lazy22zz)
-
-
-
-[![Lazy22zz's GitHub | Languages Over Time](https://stats.quira.sh/Lazy22zz/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Lazy22zz)
-
 [![bilibili](https://img.shields.io/badge/video-Bilibili-red)](https://space.bilibili.com/38851340?spm_id_from=333.1007.0.0)
 [![C++](https://img.shields.io/badge/Software-c++UnrealEngine-black)](https://awesometuts.com/blog/cpp-unreal-engine)
 
